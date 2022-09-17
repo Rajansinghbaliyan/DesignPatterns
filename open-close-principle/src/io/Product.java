@@ -40,4 +40,13 @@ public class Product {
         this.size = size;
         return this;
     }
+
+    @Override
+    public String toString() {
+        return "Product{" +
+                "name='" + name + '\'' +
+                ", color=" + color +
+                ", size=" + size +
+                '}';
+    }
 }
