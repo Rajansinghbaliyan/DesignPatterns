@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e079b73-39de-4b69-9c40-1ab323807b4c" name="Changes" comment="" />
+    <list default="true" id="9e079b73-39de-4b69-9c40-1ab323807b4c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/open-close-principle/open-close-principle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open-close-principle/src/enums/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open-close-principle/src/enums/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open-close-principle/src/interfaces/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open-close-principle/src/interfaces/Specification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open-close-principle/src/io/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open-close-principle/src/specifications/AndSpecification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open-close-principle/src/specifications/ColorSpecification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open-close-principle/src/specifications/SizeSpecification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EumkP42qjpAg4V9WyC9nWxlpbS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,9 +48,22 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-11",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/open-close-principle/src" />
+      <recent name="$PROJECT_DIR$/open-close-principle" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,7 +72,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663453985201</updated>
+      <workItem from="1663453986600" duration="1134000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

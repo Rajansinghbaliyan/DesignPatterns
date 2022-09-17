@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/open-close-principle/open-close-principle.iml" filepath="$PROJECT_DIR$/open-close-principle/open-close-principle.iml" />
     </modules>
   </component>
 </project>
