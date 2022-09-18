@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e079b73-39de-4b69-9c40-1ab323807b4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/stringbuilder/BuilderFroString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/stringbuilder/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/htmlelement/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/htmlelement/io/HtmlBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/htmlelement/io/HtmlElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-close-principle/open-close-principle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/open-close-principle/open-close-principle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creational-patterns/src/builder/stringbuilder/BuilderFroString.java" beforeDir="false" afterPath="$PROJECT_DIR$/creational-patterns/src/builder/stringbuilder/BuilderFroString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +69,11 @@
       <recent name="$PROJECT_DIR$/open-close-principle/src" />
       <recent name="$PROJECT_DIR$/open-close-principle" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="builder.htmlelement" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Runner">
+  <component name="RunManager" selected="Application.builder.htmlelement.Runner">
     <configuration name="OpenCloseMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OpenCloseMain" />
       <module name="open-close-principle" />
@@ -93,8 +94,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="builder.htmlelement.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="builder.htmlelement.Runner" />
+      <module name="creational-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builder.htmlelement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.builder.htmlelement.Runner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.OpenCloseMain" />
       </list>
@@ -109,11 +124,22 @@
       <option name="presentableId" value="Default" />
       <updated>1663453985201</updated>
       <workItem from="1663453986600" duration="1982000" />
-      <workItem from="1663476495745" duration="3641000" />
+      <workItem from="1663476495745" duration="7776000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/creational-patterns/src/builder/htmlelement/io/HtmlElement.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

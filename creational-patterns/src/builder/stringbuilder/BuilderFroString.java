@@ -10,7 +10,7 @@ class BuilderFroString {
 
         stringBuilder.append("<ul>");
         Arrays.asList(words)
-                .forEach(w -> stringBuilder.append("\n<li>").append(w).append("</li>"));
+                .forEach(w -> stringBuilder.append("\n  <li>").append(w).append("</li>"));
 
         stringBuilder.append("\n</ul>");
 
