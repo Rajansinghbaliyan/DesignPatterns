@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e079b73-39de-4b69-9c40-1ab323807b4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/open-close-principle/src/OpenCloseMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open-close-principle/src/filter/BetterFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/stringbuilder/BuilderFroString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/stringbuilder/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/open-close-principle/src/io/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/open-close-principle/src/io/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-close-principle/open-close-principle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/open-close-principle/open-close-principle.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +30,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.ideaLibSources/javatuples-1.2-sources.jar!/org/javatuples/KeyValue.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/.ideaLibSources/javatuples-1.2-sources.jar!/org/javatuples/Pair.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/.ideaLibSources/javatuples-1.2-sources.jar!/org/javatuples/valueintf/IValue0.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/.ideaLibSources/javatuples-1.2-sources.jar!/org/javatuples/valueintf/IValue1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-11.0.16.1/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-11.0.16.1/lib/src.zip!/java.base/java/lang/Appendable.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-11.0.16.1/lib/src.zip!/java.base/java/lang/StringBuilder.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -38,16 +50,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "corretto-11",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.rainbow.brackets"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -56,7 +72,7 @@
       <recent name="$PROJECT_DIR$/open-close-principle" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Runner">
     <configuration name="OpenCloseMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OpenCloseMain" />
       <module name="open-close-principle" />
@@ -64,8 +80,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="builder.stringbuilder.Runner" />
+      <module name="creational-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builder.stringbuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.OpenCloseMain" />
       </list>
     </recent_temporary>
@@ -79,6 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663453985201</updated>
       <workItem from="1663453986600" duration="1982000" />
+      <workItem from="1663476495745" duration="3641000" />
     </task>
     <servers />
   </component>

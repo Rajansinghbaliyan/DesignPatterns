@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creational-patterns/creational-patterns.iml" filepath="$PROJECT_DIR$/creational-patterns/creational-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liskov-substitution-principle/liskov-substitution-principle.iml" filepath="$PROJECT_DIR$/liskov-substitution-principle/liskov-substitution-principle.iml" />
       <module fileurl="file://$PROJECT_DIR$/open-close-principle/open-close-principle.iml" filepath="$PROJECT_DIR$/open-close-principle/open-close-principle.iml" />
     </modules>
   </component>
