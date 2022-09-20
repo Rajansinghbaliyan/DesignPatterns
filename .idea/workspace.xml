@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e079b73-39de-4b69-9c40-1ab323807b4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/fluentbuilder/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/fluentbuilder/io/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/fluentbuilder/io/builder/EmployeeBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/fluentbuilder/io/builder/PersonBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/facetedbuilder/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/facetedbuilder/builder/FinanceInfoBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/facetedbuilder/builder/PersonAddressBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/facetedbuilder/builder/PersonBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/facetedbuilder/builder/PersonInfoBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/src/builder/facetedbuilder/io/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +75,7 @@
       <recent name="builder.htmlelement" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.builder.fluentbuilder.Runner">
+  <component name="RunManager" selected="Application.builder.facetedbuilder.Runner">
     <configuration name="OpenCloseMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OpenCloseMain" />
       <module name="open-close-principle" />
@@ -87,6 +89,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="builder.stringbuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="builder.facetedbuilder.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="builder.facetedbuilder.Runner" />
+      <module name="creational-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builder.facetedbuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.builder.facetedbuilder.Runner" />
         <item itemvalue="Application.builder.fluentbuilder.Runner" />
         <item itemvalue="Application.builder.htmlelement.Runner" />
         <item itemvalue="Application.Runner" />
@@ -138,7 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663453985201</updated>
       <workItem from="1663453986600" duration="1982000" />
-      <workItem from="1663476495745" duration="8942000" />
+      <workItem from="1663476495745" duration="13231000" />
     </task>
     <servers />
   </component>
